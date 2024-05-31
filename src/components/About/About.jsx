@@ -17,10 +17,11 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Post Graduate</h3>
+              <h3>Frontend Developer</h3>
               <br />
               <p>
-                Now I'm currently pursing Master of Computer Applications in M.Kumarasamy College of Engineering,Karur
+              I have extensive knowledge in front-end technologies including HTML, CSS, JavaScript, BootStrap, TailwindCss and frameworks like React. My expertise lies in creating dynamic, responsive, and user-friendly web applications.
+
               </p>
             </div>
           </li>
@@ -29,18 +30,18 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                I have Little Bit Experience developing  and optimised back-end systems
+                and APIs 
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Creative Thinker</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                I have Multiple Landing Pages Ideas and I am on process to create design
+                pages as well
               </p>
             </div>
           </li>

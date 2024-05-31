@@ -30,13 +30,14 @@
     rgba(255, 255, 255, 0) 120%
   );
   -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
+  background-clip: text;
 }
 
 .description {
-  font-size: 30px;
+  font-size: 25px;
   font-family: var(--font-roboto);
   margin-bottom: 52px;
+  text-align: left  ;
 }
 
 .contactBtn {
@@ -107,5 +108,8 @@
 
   .content {
     align-items: center;
+  }
+  .description{
+    text-align:left;
   }
 }

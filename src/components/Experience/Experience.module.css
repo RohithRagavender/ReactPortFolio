@@ -13,6 +13,9 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  width: 100px;
+  border-bottom:5px solid dodgerblue ;
+  
 }
 
 .content {

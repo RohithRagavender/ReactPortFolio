@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Podcast App",
+    "imageSrc": "projects/podcast_icon.jpg",
+    "description": "a digital medium consisting of audio (or video) episodes that relate to a specific theme. The hosts of a podcast are referred to as podcasters",
+    "demo":"#",
+    "skills": ["SQL", "Kotlin", "AndroidStudio"],
+    "source": "https://github.com/RohithRagavender/Podcast2"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Game Warrior",
+    "imageSrc": "projects/cyberpunks.png",
+    "description": "In this website you can see all the new game links and also give review section and it also conatin Gameing Commnunity",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://rohithragavender.github.io/Project-1/",
+    "source": "https://github.com/RohithRagavender/Project-1"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Orcuss",
+    "imageSrc": "projects/images.jpg",
+    "description": "This is the Personal Portfolio Website which is I created for my client and this website is also visited by NASA ",
+    "skills": ["HTML", "CSS", "Javascript","PHP","BootStrap"],
+    "demo": "https://rohithragavender.github.io/Orcuss/",
+    "source": "https://github.com/RohithRagavender/Orcuss"
   }
 ]
