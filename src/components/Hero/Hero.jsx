@@ -2,7 +2,7 @@ import React from "react";
 
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
-import resume from "../Documents/Cv.pdf";
+import resume from '../Documents/cv.pdf'
 export const Hero = () => {
 return (
 <section className={styles.container}>
@@ -12,7 +12,7 @@ return (
       Enthusiastic and motivated fresher web designer with a strong design sense and
       eagerness to learn, seeking a first opportunity to contribute to the creation of user-friendly and
       visually appealing websites.Possess a solid understanding of HTML ,CSS , JavaScript , Bootstrap, TailwindCSs and
-      React. And passionate about staying updated on design trends and technologies.
+      React. And passionate about staying updated on design trends and technologies. !
     </p>
     <a href={resume} download='resume' className={styles.contactBtn}>
       Download CV
