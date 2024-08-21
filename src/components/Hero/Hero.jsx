@@ -12,7 +12,7 @@ return (
       Enthusiastic and motivated fresher web designer with a strong design sense and
       eagerness to learn, seeking a first opportunity to contribute to the creation of user-friendly and
       visually appealing websites.Possess a solid understanding of HTML ,CSS , JavaScript , Bootstrap, TailwindCSs and
-      React. And passionate about staying updated on design trends and technologies. !
+      React. And passionate about staying updated on design trends and technologies.
     </p>
     <a href={resume} download='resume' className={styles.contactBtn}>
       Download CV
